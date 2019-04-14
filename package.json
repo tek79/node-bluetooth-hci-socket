@@ -1,11 +1,11 @@
 {
-  "name": "@abandonware/bluetooth-hci-socket",
+  "name": "bluetooth-hci-socket",
   "version": "0.5.3-1",
   "description": "Bluetooth HCI socket binding for Node.js",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeepmistry/node-bluetooth-hci-socket.git"
+    "url": "https://github.com/tek79/node-bluetooth-hci-socket.git"
   },
   "keywords": [
     "HCI",
